@@ -2,7 +2,13 @@
 
 Instance segementation using MaskRCNN for localization of document (object) images.
 
+Usage instructions.
+
 *  clone the repo 
+
+##### Install the required packaged
+
+* `pip3 install -r requirements.txt`
 
 * `cd samples\Mydocs` 
 
