@@ -2,8 +2,10 @@
 
 Instance segementation using MaskRCNN for localization of document (object) images.
 
-`cd samples\Mydocs`
+`cd samples\Mydocs` 
+
 To train the model with pretrained coco weights.
+
 `python3 doc.py train --dataset=/path/to/doc/dataset --weights=coco`
 
 The model generates bounding boxes and segmentation masks for each instance of an object in the image
