@@ -2,15 +2,16 @@
 
 Instance segementation using MaskRCNN for localization of document (object) images.
 
-`cd samples\Mydocs` 
+1  clone the repo 
+2 `cd samples\Mydocs` 
 
-To train the model with pretrained coco weights.
+##### To train the model with pretrained coco weights.
 
-`python3 doc.py train --dataset=/path/to/doc/dataset --weights=coco`
+3 `python3 doc.py train --dataset=/path/to/doc/dataset --weights=coco`
 
-The model generates bounding boxes and segmentation masks for each instance of an object in the image
+##### The model generates bounding boxes and segmentation masks for each instance of an object in the image
 
-Can be tested using 'Inspect_docs_model.ipynb' where masked outputs are showm.
+4 run 'Inspect_docs_model.ipynb' where masked outputs are tested.
 
 ##### Detecting border/corners using OpenCV
 
