@@ -2,8 +2,9 @@
 
 Instance segementation using MaskRCNN for localization of document (object) images.
 
-1  clone the repo 
-2 `cd samples\Mydocs` 
+1.  clone the repo 
+
+2. `cd samples\Mydocs` 
 
 ##### To train the model with pretrained coco weights.
 
