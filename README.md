@@ -26,7 +26,9 @@ We can get the masked output from this ipynb.
 
 ##### Click [here] to go to annotation tool link 
 1 Choose file directory
+
 2 Annotate all the files with labels & polygons.
+
 3 Export as Json and store it in train & val
 
 ##### Detecting border/corners using OpenCV
