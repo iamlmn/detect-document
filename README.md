@@ -12,7 +12,7 @@ Usage instructions.
 
 * `pip3 install -r requirements.txt`
 
-* `cd samples\Mydocs` 
+* `cd samples\My_docs` 
 
 ##### To train the model with pretrained coco weights.
 
@@ -21,6 +21,8 @@ Usage instructions.
 ##### The model generates bounding boxes and segmentation masks for each instance of an object in the image
 
 * run 'Inspect_docs_model.ipynb' where masked outputs are tested.
+
+We can get the masked output from this ipynb.
 
 ##### Detecting border/corners using OpenCV
 
