@@ -2,7 +2,7 @@
 
 Instance segementation using MaskRCNN for localization of document (object) images.
 
-Usage instructions.
+### Usage instructions.
 
 *  clone this repo 
 
@@ -26,7 +26,7 @@ We can get the masked output from this ipynb.
 
 ##### Detecting border/corners using OpenCV
 
-##### Others simple choices:
+### Others simple choices:
 ###### Canny Edge Detection
 
 > Converts to gray scale and reduces noise using bilateral filter , smoothening color preserving the edges though!
