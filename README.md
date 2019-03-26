@@ -24,7 +24,7 @@ Instance segementation using MaskRCNN for localization of document (object) imag
 
 We can get the masked output from this ipynb.
 
-##### Click [here] to go to annotation tool link 
+### Click [here](http://www.robots.ox.ac.uk/~vgg/software/via/via-1.0.6.html) to go to annotation tool link 
 1 Choose file directory
 
 2 Annotate all the files with labels & polygons.
