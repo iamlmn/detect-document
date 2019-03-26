@@ -1,10 +1,12 @@
-# detect-document
+# Detect-document
 
 Instance segementation using MaskRCNN for localization of document (object) images.
 
 Usage instructions.
 
-*  clone the repo 
+*  clone this repo 
+
+*  To use pretrained coco weights, download h5 file from [here](https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5)
 
 ##### Install the required packaged
 
